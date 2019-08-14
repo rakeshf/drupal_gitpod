@@ -5,4 +5,4 @@ tasks:
 - init: >
     composer install
   command: >
-    php core/scripts/drupal quick-start demo_umami
+    php core/scripts/drupal quick-start demo_umami --host=0.0.0.0:8000 -s
