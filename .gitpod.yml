@@ -5,4 +5,4 @@ tasks:
 - init: >
     composer install
   command: >
-    php core/scripts/drupal quick-start
+    php core/scripts/drupal quick-start demo_umami
