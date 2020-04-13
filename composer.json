@@ -12,7 +12,7 @@
     "require": {
         "drupal-composer/drupal-scaffold": "^2.0@dev",
         "composer/installers": "^1.0@dev",
-        "drupal/core": "9.0.0-beta2"
+        "drupal/core": "8.9.x-dev"
     },
     "repositories": {
         "drupal": {
